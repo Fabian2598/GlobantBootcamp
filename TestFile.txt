@@ -1,3 +1,8 @@
 Escribiendo algo.
 
+
+Escribo algo diferente en Branch2
+
 Haciendo un cambio desde Branch1.
+
+Sólamente borramos los símbolos que se generan para marcar el conflict.
